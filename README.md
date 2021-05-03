@@ -19,5 +19,5 @@ Every transaction(buy/sell) will be “taxed” 10% fee in total. 3% of the fee 
 
 ### Contributors
 
-Distribution of tokens to Club members/contributors will parralel that of the GovTuffyToken.
+Distribution of tokens to Club members/contributors will parralel that of the [GovTuffyToken](../GovTuffyToken).
 Allocating FundTuffyTokens to GovTuffyToken holders will incentivize contributions and accelerate project development.
